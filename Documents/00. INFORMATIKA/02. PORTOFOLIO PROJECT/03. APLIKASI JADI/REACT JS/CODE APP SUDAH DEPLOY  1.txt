@@ -1,0 +1,14 @@
+TANDA APLIKASI YANG SUDAH JADI DAN DI DEPLOY 
+_web_(nama aplikasi)
+
+1. _webapp_goods (html css reactjs)
+2. _webapp_travels (html css reactjs)
+3. _webapp_carrent (html css reactjs)
+4. _webapp_fooddelivery (html css reactjs)
+
+WEB AKTIF 
+
+1. 
+2. https://sigitecheng.github.io/_webapp_travels/
+3. https://sigitecheng.github.io/_webapp_carrent/
+4. https://sigitecheng.github.io/webapp_fooddelivery/
